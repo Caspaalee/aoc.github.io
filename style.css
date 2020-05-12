@@ -31,6 +31,11 @@ li a:hover:not(.active) {
   background-color: #4CAF50;
 }
 
+/* Definerer body taggen*/
+body{
+	background-image: url(images/heihie.png);
+}
+
 footer {
   background-color: seagreen;
   text-align: center;
