@@ -33,7 +33,7 @@ li a:hover:not(.active) {
 
 /* Definerer body taggen*/
 body{
-	background-image: url(images/heihie.png);
+	background-image: <img src="images/heihie.png";
 }
 
 footer {
