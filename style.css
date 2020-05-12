@@ -31,10 +31,6 @@ li a:hover:not(.active) {
   background-color: #4CAF50;
 }
 
-body {background-image: url(Filer/Bilder/heihie.jpg);
-}
-  
-
 footer {
   background-color: seagreen;
   text-align: center;
